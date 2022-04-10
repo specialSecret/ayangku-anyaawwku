@@ -44,7 +44,7 @@ body {
 
 /* main */
 .animation {
-  margin-top: -4.8em;
+  margin-top: -1em;
   order: 1;
 }
 
@@ -66,7 +66,7 @@ body {
   animation: animate 3s linear 1 forwards;
 }
 .animation .anyaw {
-  margin-top: -100px;
+  margin-top: -3em;
 }
 .animation .text-anyaw {
   stroke-dasharray: 13900;
