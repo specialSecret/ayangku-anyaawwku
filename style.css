@@ -44,12 +44,13 @@ body {
 
 /* main */
 .animation h1 {
-  font-family: "Clicker Script";
-  font-size: 7.5rem;
+  font-family: "Clicker Script", cursive;
+  font-size: 5rem;
 }
 
 .animation .hbd {
   margin-top: 50px;
+  font-size: 3.5rem;
 }
 
 .animation {
@@ -161,6 +162,14 @@ footer {
   }
 
   /* main */
+  .animation h1 {
+    font-size: 9rem;
+  }
+
+  .animation .hbd {
+    font-size: 7.5rem;
+  }
+
   .gambar {
     order: 1;
   }
